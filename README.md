@@ -1,5 +1,1 @@
-# CODE 
-# [ ! [ ] ( THUMBNAIL youtube ) ] ( LINK youtube )
-
-# [![](https://img.youtube.com/vi/2ZoIHGC-xZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=2ZoIHGC-xZU)
-# [![](https://img.youtube.com/vi/pCC6qbAnX00/maxresdefault.jpg)](https://www.youtube.com/watch?v=pCC6qbAnX00)
+# [![](https://cdn.donmai.us/original/1c/ca/__yumemi_riamu_idolmaster_and_2_more_drawn_by_nanameki__1cca48b2df500f49eb254a6fb81d3ec4.gif)](https://danbooru.donmai.us/posts/5992069?q=animated+gif)
